@@ -1,0 +1,4 @@
+This file was created during the Git Bash Submission Assignment. 
+Now I will 'git add', 'git commit' and 'git push' changes using Git Bash.
+
+ 
